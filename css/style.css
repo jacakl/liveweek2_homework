@@ -121,7 +121,7 @@ img {
 }
 
 .intro {
-  background-image: url(./image/background-img.png);
+  background-image: url(../image/background-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
