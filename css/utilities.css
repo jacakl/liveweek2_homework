@@ -1,0 +1,135 @@
+/* utils */
+.container {
+  width: 1296px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 128px;
+}
+
+.h2 {
+  font-size: 64px;
+}
+
+.fs-1 {
+  font-size: 32px;
+}
+
+.fs-2 {
+  font-size: 24px;
+}
+
+.fs-3 {
+  font-size: 20px;
+}
+
+.text-primary {
+  color: #00FFA3;
+}
+
+/* 基本設定：指定兩種以上顏色 */
+/* 漸層方向預設是由上到下 */
+.gradient-color {
+  background: linear-gradient(#050014, #01021E);
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-block {
+  display: block;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ai-start {
+  align-items: start;
+}
+
+.ta-right {
+  text-align: right;
+}
+
+.ml-1 {
+  margin-left: 4px;
+}
+
+.ml-4 {
+  margin-left: 16px;
+}
+
+.ml-6 {
+  margin-left: 24px;
+}
+
+.mr-4 {
+  margin-right: 16px;
+}
+
+.mr-5 {
+  margin-right: 20px;
+}
+
+.mb-1 {
+  margin-bottom: 4px;
+}
+
+.mb-4 {
+  margin-bottom: 16px;
+}
+
+.mb-6 {
+  margin-bottom: 24px;
+}
+
+.mb-7 {
+  margin-bottom: 28px;
+}
+
+.mb-8 {
+  margin-bottom: 32px;
+}
+
+.mb-9 {
+  margin-bottom: 36px;
+}
+
+.pt-18 {
+padding-top: 72px;
+}
+
+.pb-8 {
+  padding-bottom: 32px;
+  }
+
+.ptb-10 {
+  padding: 40px 0;
+}
+
+.ptb-24 {
+  padding: 96px 0;
+  }
+
+.ptb-40 {
+  padding: 160px 0;
+  }
+
+.g-6 {
+  gap: 24px;
+}
